@@ -1,0 +1,87 @@
+Food processing
+Food processing is the transformation of raw ingredients, by physical or chemical means into food, or of food into other forms. Food processing combines raw food ingredients to produce marketable food products that can be easily prepared and served by the consumer. Food processing typically involves activities such as mincing and macerating, liquefaction, emulsification, and cooking (such as boiling, broiling, frying, or grilling); pickling, pasteurization, and many other kinds of preservation; and canning or other packaging. (Primary-processing such as dicing or slicing, freezing or drying when leading to secondary products are also included.)
+
+
+HistoryEdit
+
+Food processing dates back to the prehistoric ages when crude processing incorporated fermenting, sun drying, preserving with salt, and various types of cooking (such as roasting, smoking, steaming, and oven baking), Such basic food processing involved chemical enzymatic changes to the basic structure of food in its natural form, as well served to build a barrier against surface microbial activity that caused rapid decay. Salt-preservation was especially common for foods that constituted warrior and sailors' diets until the introduction of canning methods. Evidence for the existence of these methods can be found in the writings of the ancient Greek, Chaldean, Egyptian and Roman civilizations as well as archaeological evidence from Europe, North and South America and Asia. These tried and tested processing techniques remained essentially the same until the advent of the industrial revolution. Examples of ready-meals also date back to before the preindustrial revolution, and include dishes such as Cornish pasty and Haggis. Both during ancient times and today in modern society these are considered processed foods.
+Modern food processing technology developed in the 19th and 20th centuries was developed in a large part to serve military needs. In 1809 Nicolas Appert invented a hermetic bottling technique that would preserve food for French troops which ultimately contributed to the development of tinning, and subsequently canning by Peter Durand in 1810. Although initially expensive and somewhat hazardous due to the lead used in cans, canned goods would later become a staple around the world. Pasteurization, discovered by Louis Pasteur in 1864, improved the quality of preserved foods and introduced the wine, beer, and milk preservation.
+
+In the 20th century, World War II, the space race and the rising consumer society in developed countries (including the United States) contributed to the growth of food processing with such advances as spray drying, juice concentrates, freeze drying and the introduction of artificial sweeteners, colouring agents, and such preservatives as sodium benzoate. In the late 20th century, products such as dried instant soups, reconstituted fruits and juices, and self cooking meals such as MRE food ration were developed.
+In western Europe and North America, the second half of the 20th century witnessed a rise in the pursuit of convenience. Food processing companies marketed their products especially towards middle-class working wives and mothers. Frozen foods (often credited to Clarence Birdseye) found their success in sales of juice concentrates and "TV dinners". Processors utilised the perceived value of time to appeal to the postwar population, and this same appeal contributes to the success of convenience foods today.
+
+
+Benefits and drawbacksEdit
+
+
+BenefitsEdit
+
+Benefits of food processing include toxin removal, preservation, easing marketing and distribution tasks, and increasing food consistency. In addition, it increases yearly availability of many foods, enables transportation of delicate perishable foods across long distances and makes many kinds of foods safe to eat by de-activating spoilage and pathogenic micro-organisms. Modern supermarkets would not exist without modern food processing techniques, and long voyages would not be possible.
+Processed foods are usually less susceptible to early spoilage than fresh foods and are better suited for long distance transportation from the source to the consumer. When they were first introduced, some processed foods helped to alleviate food shortages and improved the overall nutrition of populations as it made many new foods available to the masses.
+Processing can also reduce the incidence of food borne disease. Fresh materials, such as fresh produce and raw meats, are more likely to harbour pathogenic micro-organisms (e.g. Salmonella) capable of causing serious illnesses.
+The extremely varied modern diet is only truly possible on a wide scale because of food processing. Transportation of more exotic foods, as well as the elimination of much hard labour gives the modern eater easy access to a wide variety of food unimaginable to their ancestors.
+The act of processing can often improve the taste of food significantly.
+
+Mass production of food is much cheaper overall than individual production of meals from raw ingredients. Therefore, a large profit potential exists for the manufacturers and suppliers of processed food products. Individuals may see a benefit in convenience, but rarely see any direct financial cost benefit in using processed food as compared to home preparation.
+Processed food freed people from the large amount of time involved in preparing and cooking "natural" unprocessed foods. The increase in free time allows people much more choice in life style than previously allowed. In many families the adults are working away from home and therefore there is little time for the preparation of food based on fresh ingredients. The food industry offers products that fulfill many different needs: e.g. fully prepared ready meals that can be heated up in the microwave oven within a few minutes.
+Modern food processing also improves the quality of life for people with allergies, diabetics, and other people who cannot consume some common food elements. Food processing can also add extra nutrients such as vitamins.
+
+
+DrawbacksEdit
+
+Any processing of food can affect its nutritional density. The amount of nutrients lost depends on the food and processing method. For example the heat destroys the vitamin C. Therefore, canned fruits possess less vitamin C than their fresh alternatives. The USDA conducted a study in 2004, creating a nutrient retention table for several foods. A cursory glance of the table indicates that, in the majority of foods, processing reduces nutrients by a minimal amount. On average this process reduces any given nutrient by as little as 5%-20%.
+New research highlighting the importance to human health of a rich microbial environment in the intestine indicates that abundant food processing (not fermentation of foods) endangers that environment.
+Using food additives represents another safety concern. The health risks of any given additive vary greatly from person to person; for example using sugar as an additive endangers diabetics. In the European Union, only European Food Safety Authority (EFSA) approved food additives (e.g., sweeteners, preservatives, stabilizers) are permitted at specified levels for use in food products. Approved additives receive an E number (E for Europe), simplifying communication about food additives included in the ingredients' list for all the different languages spoken in the EU. Certain additives can also result in an addiction to a particular food item. As effects of chemical additives are learnt, changes to laws and regulatory practices are made to make such processed foods more safe.
+Food processing is typically a mechanical process that utilizes large mixing, grinding, chopping and emulsifying equipment in the production process. These processes inherently introduce a number of contamination risks. As a mixing bowl or grinder is used over time the food contact parts will tend to fail and fracture. This type of failure will introduce into the product stream small to large metal contaminants. Further processing of these metal fragments will result in downstream equipment failure and the risk of ingestion by the consumer. Food manufacturers utilize industrial metal detectors to detect and reject automatically any metal fragment. Large food processors will utilize many metal detectors within the processing stream to reduce both damage to processing machinery as well as risk to consumer health.
+
+
+Performance parameters for food processingEdit
+
+When designing processes for the food industry the following performance parameters may be taken into account:
+Hygiene, e.g. measured by number of micro-organisms per mL of finished product
+Energy efficiency measured e.g. by “ton of steam per ton of sugar produced”
+Minimization of waste, measured e.g. by “percentage of peeling loss during the peeling of potatoes”
+Labour used, measured e.g. by “number of working hours per ton of finished product”
+Minimization of cleaning stops measured e.g. by “number of hours between cleaning stops”
+
+
+De-agglomerating batter mixes in food processingEdit
+Problems often occur during preparation of batter mixes because flour and other powdered ingredients tend to form lumps or agglomerates as they are being mixed during production. A conventional mixer/agitator cannot break down these agglomerates, resulting in a lumpy batter. If lumpy batter is used to enrobe products, it causes an unsatisfactory appearance with misshapen or oversize products that do not fit properly into packaging. This can force production to a standstill. Furthermore batter mix is generally recirculated from an enrobing system back to a holding vessel; lumps then have a tendency to build up, reducing the flow of material and raising potential sanitation issues.
+Using a high shear in-line mixer in place of a conventional agitator or mixer can quickly solve problems of agglomeration with dry ingredients. A single pass through a self-pumping, in-line mixer adds high shear to batter, which de-agglomerates the mix, resulting in a homogeneous, smooth batter. With a consistent, smooth batter, finished product appearance is improved; the effectiveness and hygiene of the recirculation system is increased; and a better yield of raw materials is achieved. By increasing overall product quality, the amount of raw materials needed is decreased, thereby lowering manufacturing costs and increasing shelf life. Increased shelf life is achieved by creating and maintaining an emulsion, often by adding a food stabilizer.
+High shear in-line mixers process food to be made faster and cheaper while increasing consistency of the finished food. Powder and liquid mixing systems are capable of rapidly incorporating large quantities of powders at high concentrations – agglomerate free and fully hydrated. Advances in technology have made processing equipment easy to clean, leading to a much safer processed food. 
+
+
+Trends in modern food processingEdit
+
+
+HealthEdit
+Reduction of fat content in final product by using baking instead of deep-frying in the production of potato chips, another processed food.
+Maintaining the natural taste of the product by using less artificial sweetener than was used before.
+
+
+HygieneEdit
+The rigorous application of industry and government endorsed standards to minimise possible risk and hazards. The international standard adopted is HACCP.
+
+
+EfficiencyEdit
+Rising energy costs lead to increasing usage of energy-saving technologies, e.g. frequency converters on electrical drives, heat insulation of factory buildings and heated vessels, energy recovery systems, keeping a single fish frozen all the way from China to Switzerland.
+Factory automation systems (often Distributed control systems) reduce personnel costs and may lead to more stable production results.
+
+
+IndustriesEdit
+Food processing industries and practices include the following:
+
+
+See alsoEdit
+
+
+Notes and referencesEdit
+
+
+BibliographyEdit
+Fábricas de alimentos, 9th edition (in Spanish)
+Nutritional evaluation of food processing,
+Food preservation 2nd edition, by Normal W. Desrosier
+
+
+External linksEdit

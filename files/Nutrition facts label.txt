@@ -1,0 +1,75 @@
+Nutrition facts label
+The nutrition facts label (also known as the nutrition information panel, and other slight variations) is a label required on most packaged food in many countries.
+Most countries also release overall nutrition guides for general educational purposes. In some cases, the guides are based on different dietary targets for various nutrients than the labels on specific foods.
+
+
+Australia and New ZealandEdit
+Australia and New Zealand use a nutritional information panel of the following format:
+Other items are included as appropriate, and the units may be varied as appropriate (e.g. substituting ml for g, or mmol for mg in the 'Sodium' row). In April 2013 the New Zealand government introduced rules around common claims made on food packaging, such as 'low in fat'.
+
+
+CanadaEdit
+In Canada, a standardized "Nutrition Facts" label was introduced as part of regulations passed in 2003, and became mandatory for most prepackaged food products on December 12, 2005. (Smaller businesses were given until December 12, 2007 to make the information available.).
+Canadian regulation tightly controls the manner in which the nutrition fact table (NFT) data are laid out. There is a wide variety of possible formats for use on a given food package. A selection hierarchy is used to select among the many formats (28 main formats, and 2-7 sub formats for each). This results in standard (vertical) formats being considered for use before horizontal and linear formats. The selection hierarchy also allows the NFT to occupy no more than 15% of the physical package's available display area (ADS), but never to be smaller than a format that would be <=15% of ADS. In practice, determining the ADS of a package, and selecting the appropriate NFT format, can be a detailed calculation.
+
+
+European UnionEdit
+It was regulated by the Commission Directive 2008/100/EC of 28 October 2008 amending Council Directive 90/496/EEC on nutrition labelling for foodstuffs as regards recommended daily allowances, energy conversion factors and definitions. A new regulation is now in force (Regulation 1169/2011). Nutritional labelling becomes mandatory for most pre-packaged foods as from December 2016.
+In the European Union, along the "old" rules (Directive 90/496, amended), the information (usually in panel format) is most often labelled "Nutrition Information" (or equivalent in other EU languages). An example is shown on the right. The panel is optional, but if provided, the prescribed content and format must be followed. It will always give values for a set quantity — 100 g (3.5 oz) or 100 ml (3.5 imp fl oz; 3.4 US fl oz) of the product — and often also for a defined "serving", as an option. First will come the energy values, in both kilocalories and kilojoules.
+Then will come a breakdown of constituent elements: usually most or all of protein, carbohydrate, starch, sugar, fat, fibre and sodium. The "fat" figure is likely to be further broken down into saturated and unsaturated fat, while the "carbohydrate" figure is likely to give a subtotal for sugars. With the "new" rules, the mandatory information is: energy, fat, saturates, carbohydrates, sugars, protein and salt, in that particular order, with options to extend this list to: mono-unsaturates, polyunsaturates, polyols, starch, fibre, and vitamins and minerals.
+With regards to health claims and nutrition (composition) claims, these are harmonised in the EU through Regulation 1924/2006, amended. In November 2012, the European Commission published two new regulations: Regulation (EC) No. 1047/2012 and Regulation (EC) No.1048/2012. Certain nutrition claim groups as of Regulation (EC) No 1924/2006 had to be changed. Moreover, the health claims associated to barley beta-gluten were amended (e.g. lowering blood cholesterol).
+Within Regulation 1924, there are legal definitions of terms such as "low fat", "high fibre", "reduced calories".
+All health claims have been harmonised in the European Union. They can be used if they have been approved by EFSA, the list of approved and rejected claims is available on a web site
+Provided the full nutrition information is shown on the packet, additional nutritional information and formats (e.g. a traffic light rating system) may be included and this falls outside the scope of regulation.
+The United Kingdom regulations are given in Schedules 6 and 7 of the Food Labelling Regulations 1996.
+
+
+Hong KongEdit
+In Hong Kong nutrition facts labels are regulated by the subsidiary legislation Food and Drugs (Composition and Labelling) (Amendment: Requirements for Nutrition Labelling and Nutrition Claim) Regulation 2008.
+
+
+IndiaEdit
+The Ministry of Health and Family Welfare had, on September 19, 2008, notified the Prevention of Food Adulteration (5th Amendment) Rules, 2008, mandating packaged food manufacturers to declare on their product labels nutritional information and a mark from the F.P.O or Agmark (Companies that are responsible for checking food products) to enable consumers make informed choices while purchasing. Prior to this amendment, disclosure of nutritional information was largely voluntary though many large manufacturers tend to adopt the international practice.
+
+
+MexicoEdit
+Food products sold in Mexico use the NOM-051-SCFI-1994 "Información nutrimental" product labelling standard (that is very similar to "Nutrition Facts" in the U.S.). The Official Mexican Standard, or NOM (Norma Oficial Mexicana), was developed by the Mexican Secretary of Commerce and Industrial Promotion (Secretaría de Comercio y Fomento Industrial, or SCFI), now a part of the Secretary of the Economy (SECOFI). It entered into effect on January 24, 1996, and defines "General specifications for labelling foods and pre-bottled non-alcoholic beverages".
+
+
+United StatesEdit
+In the United States, the Nutritional Facts label lists the percentage supplied that is recommended to be met, or to be limited, in one day of human nutrients based on a daily diet of 2,000 kilocalories (kcal).
+With certain exceptions, such as foods meant for babies, the following Daily Values are used. These are called Reference Daily Intake (RDI) values and were originally based on the highest 1968 Recommended Dietary Allowances (RDA) for each nutrient in order to assure that the needs of all age and sex combinations were met. These are older than the current Recommended Dietary Allowances of the Dietary Reference Intake. For vitamin C, vitamin D, vitamin E, vitamin K, calcium, phosphorus, magnesium, and manganese, the current maximum RDAs (over age and sex) are up to 50% higher than the Daily Values used in labeling, whereas for other nutrients the estimated maximal needs have gone down. As of October 2010, the only micronutrients that are required to be included on all labels are vitamin A, vitamin C, calcium, and iron. To determine the nutrient levels in the foods, companies may develop or use databases, and these may be submitted voluntarily to the U.S. Food and Drug Administration for review.
+In certain cases this label is not yet required by law, so a list of ingredients should be present instead. Ingredients are listed in order from highest to lowest quantity, according to their weight.
+
+The label was mandated for most food products under the provisions of the 1990 Nutrition Labeling and Education Act (NLEA), per the recommendations of the U.S. Food and Drug Administration. It was one of several controversial actions taken during the tenure of FDA Commissioner Dr. David Kessler. The law required food companies to begin using the new food label on packaged foods beginning May 8, 1994. (Meat and poultry products were not covered by NLEA, though the U.S. Department of Agriculture proposed similar regulations for voluntary labeling of raw meat and poultry.) Foods labeled before that day could use the old label. This appeared on all products in 1995. The old label was titled "Nutrition Information Per Serving" or simply, "Nutrition Information".
+The label begins with a standard serving measurement, calories are listed second, and then following is a breakdown of the constituent elements. Always listed are total fat, sodium, carbohydrates and protein; the other nutrients usually shown may be suppressed, if they are zero. Usually all 15 nutrients are shown: calories, calories from fat, fat, saturated fat, trans fat, cholesterol, sodium, carbohydrates, dietary fiber, sugars, protein, vitamin A, vitamin C, calcium, and iron.
+Products containing less than 5 g of fat show amounts rounded to the nearest 0.5 g. Amounts less than 0.5 g are rounded to 0 g. For example, if a product contains 0.45 g of trans fat per serving, and the package contains 18 servings, the label would show 0 g of trans fat, even though the product actually contains a total of 8.1 g of trans fat.
+In addition to the nutrition label, products may display certain nutrition information or health claims on packaging. These health claims are only allowed by the FDA for "eight diet and health relationships based on proven scientific evidence", including: calcium and osteoporosis, fiber-containing grain products, fruits and vegetables and cancer, fruits, vegetables, and grain products that contain fiber—particularly soluble fiber—and the risk of coronary heart disease, fat and cancer, saturated fat and cholesterol and coronary heart disease, sodium and hypertension, and folate and neural tube defects. The Institute of Medicine recommended these labels contain the most useful nutritional information for consumers: saturated fats, trans fats, sodium, calories, and serving size. In January 2011, food manufacturers and grocery stores announced plans to display some of this nutrition information on processed food.
+The nutrition facts label currently appears on more than 6.5 billion food packages. President Bill Clinton issued an award of design excellence for the nutrition facts label in 1997 to Burkey Belser in Washington, DC.
+The FDA does not require any specific typeface be used in the Nutrition Facts label, mandating only that the label "utilize a single easy-to-read type style", though its example label uses Helvetica. However, as regulated by the FDA and the USDA, it is mandatory for certain information listed in the label to be written in English, including: name of the product, net quantity, serving size and number of servings per package, nutrition facts, ingredient list, and name of manufacturer or distributor.
+In 2009, a federal appellate court rejected the New York State Restaurant Association’s challenge to the city’s 2007 regulation requiring most major fast-food and chain restaurants to prominently display calorie information on their menus. The rule applies to restaurants that are part of chains with at least 15 establishments doing business nationally.
+Alcoholic beverages are under the jurisdiction of the Alcohol and Tobacco Tax and Trade Bureau (TTB), and as of 2012 are not required to have a nutrition facts label. Since at least 2003, consumer groups have lobbied the TTB to require labelling disclosing relevant information. Marketing terms such as "light" for beers and wines, and "table wine" do have specific requirements, and in certain cases alcohol content must be disclosed.
+In 2014, the U.S. Food and Drug Administration proposed several changes to nutrition labeling for the first time in over 20 years. Proposed changes will include a new design requiring a beverage size of more than one serving to more accurately reflect how many calories an individual is actually consuming. The new recommendation also proposes removing “calories from fat”, and instead focusing on total calories and type of fats being consumed in a product. The proposed labels would also list how much sugar is added (rather than inherent) to a product, as well as declaring the amount of Vitamin D and potassium in a product. Some of these changes sparked a major debate between the food industry and public health agencies. The proposal to indicate sugar added during food production, in particular, is being brought forward by the FDA as a measure to counter the increase in per capita sugar consumption in the US, which over the last decades has exceeded the limits recommended by scientific institutions and governmental agencies. Major American food associations have opposed the label change, indicating "lack of merit" and "no preponderance of evidence" to justify the inclusion of sugar added in the new label.
+
+
+See alsoEdit
+Diet (nutrition)
+Food energy
+Food labeling regulations
+Table of food nutrients
+Nutritional scale
+Serving size
+The Atwater System
+The Non-GMO Project
+
+
+ReferencesEdit
+
+
+External links and further readingEdit
+U.S. Food and Drug Administration Center for Food Safety and Applied Nutrition : The Food Label
+Health Canada: Nutrition Labelling
+U.K. Food Standards Agency: Labelling
+21 CFR 101.9 (The actual text of the labeling regulation in the U.S.)
+EU website on nutrition labeling
+"Labels and Other “Krafty” Stuff"

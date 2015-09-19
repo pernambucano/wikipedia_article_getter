@@ -1,0 +1,91 @@
+Food additive
+Food additives are substances added to food to preserve flavor or enhance its taste and appearance. Some additives have been used for centuries; for example, preserving food by pickling (with vinegar), salting, as with bacon, preserving sweets or using sulfur dioxide as with wines. With the advent of processed foods in the second half of the twentieth century, many more additives have been introduced, of both natural and artificial origin.
+
+
+Numbering
+To regulate these additives, and inform consumers, each additive is assigned a unique number, termed as "E numbers", which is used in Europe for all approved additives. This numbering scheme has now been adopted and extended by the Codex Alimentarius Commission to internationally identify all additives, regardless of whether they are approved for use.
+E numbers are all prefixed by "E", but countries outside Europe use only the number, whether the additive is approved in Europe or not. For example, acetic acid is written as E260 on products sold in Europe, but is simply known as additive 260 in some countries. Additive 103, alkanet, is not approved for use in Europe so does not have an E number, although it is approved for use in Australia and New Zealand. Since 1987, Australia has had an approved system of labelling for additives in packaged foods. Each food additive has to be named or numbered. The numbers are the same as in Europe, but without the prefix "E".
+The United States Food and Drug Administration (FDA) lists these items as "generally recognized as safe" (GRAS); they are listed under both their Chemical Abstracts Service number and FDA regulation under the United States Code of Federal Regulations.
+See list of food additives for a complete list of all the names.
+
+
+Categories
+Food additives can be divided into several groups, although there is some overlap between them.
+Acids 
+Food acids are added to make flavors "sharper", and also act as preservatives and antioxidants. Common food acids include vinegar, citric acid, tartaric acid, malic acid, fumaric acid, and lactic acid.
+Acidity regulators 
+Acidity regulators are used to change or otherwise control the acidity and alkalinity of foods.
+Anticaking agents 
+Anticaking agents keep powders such as milk powder from caking or sticking.
+Antifoaming agents 
+Antifoaming agents reduce or prevent foaming in foods.
+Antioxidants 
+Antioxidants such as vitamin C act as preservatives by inhibiting the effects of oxygen on food, and can be beneficial to health.
+Bulking agents 
+Bulking agents such as starch are additives that increase the bulk of a food without affecting its taste.
+Food coloring 
+Colorings are added to food to replace colors lost during preparation, or to make food look more attractive.
+Color retention agents 
+In contrast to colorings, color retention agents are used to preserve a food's existing color.
+Emulsifiers 
+Emulsifiers allow water and oils to remain mixed together in an emulsion, as in mayonnaise, ice cream, and homogenized milk.
+Flavors 
+Flavors are additives that give food a particular taste or smell, and may be derived from natural ingredients or created artificially.
+Flavor enhancers 
+Flavor enhancers enhance a food's existing flavors. They may be extracted from natural sources (through distillation, solvent extraction, maceration, among other methods) or created artificially.
+Flour treatment agents 
+Flour treatment agents are added to flour to improve its color or its use in baking.
+Glazing agents
+Glazing agents provide a shiny appearance or protective coating to foods.
+Humectants 
+Humectants prevent foods from drying out.
+Tracer gas
+Tracer gas allow for package integrity testing to prevent foods from being exposed to atmosphere, thus guaranteeing shelf life.
+Preservatives 
+Preservatives prevent or inhibit spoilage of food due to fungi, bacteria and other microorganisms.
+Stabilizers 
+Stabilizers, thickeners and gelling agents, like agar or pectin (used in jam for example) give foods a firmer texture. While they are not true emulsifiers, they help to stabilize emulsions.
+Sweeteners 
+Sweeteners are added to foods for flavoring. Sweeteners other than sugar are added to keep the food energy (calories) low, or because they have beneficial effects for diabetes mellitus and tooth decay and diarrhea.
+Thickeners 
+Thickening agents are substances which, when added to the mixture, increase its viscosity without substantially modifying its other properties.
+
+
+Safety
+With the increasing use of processed foods since the 19th century, there has been a great increase in the use of food additives of varying levels of safety. This has led to legislation in many countries regulating their use. For example, boric acid was widely used as a food preservative from the 1870s to the 1920s, but was banned after World War I due to its toxicity, as demonstrated in animal and human studies. During World War II, the urgent need for cheap, available food preservatives led to it being used again, but it was finally banned in the 1950s. Such cases led to a general mistrust of food additives, and an application of the precautionary principle led to the conclusion that only additives that are known to be safe should be used in foods. In the United States, this led to the adoption of the Delaney clause, an amendment to the Federal Food, Drug, and Cosmetic Act of 1938, stating that no carcinogenic substances may be used as food additives. However, after the banning of cyclamates in the United States and Britain in 1969, saccharin, the only remaining legal artificial sweetener at the time, was found to cause cancer in rats. Widespread public outcry in the United States, partly communicated to Congress by postage-paid postcards supplied in the packaging of sweetened soft drinks, led to the retention of saccharin, despite its violation of the Delaney clause.  However, in 2000, saccharin was later found to only be carcinogenic to rats due to their unique urine chemistry. 
+In September 2007, research financed by Britain's Food Standards Agency and published online by the British medical journal The Lancet, presented evidence that a mix of additives commonly found in children’s foods increases the mean level of hyperactivity. The team of researchers concluded that "the finding lends strong support for the case that food additives exacerbate hyperactive behaviors (inattention, impulsivity and overactivity) at least into middle childhood." That study examined the effect of artificial colors and a sodium benzoate preservative, and found both to be problematic for some children. Further studies are needed to find out whether there are other additives that could have a similar effect, and it is unclear whether some disturbances can also occur in mood and concentration in some adults. In the February 2008 issue of its publication, AAP Grand Rounds, the American Academy of Pediatrics concluded that a low-additive diet is a valid intervention for children with ADHD:
+"Although quite complicated, this was a carefully conducted study in which the investigators went to great lengths to eliminate bias and to rigorously measure outcomes. The results are hard to follow and somewhat inconsistent. For many of the assessments there were small but statistically significant differences of measured behaviors in children who consumed the food additives compared with those who did not. In each case increased hyperactive behaviors were associated with consuming the additives. For those comparisons in which no statistically significant differences were found, there was a trend for more hyperactive behaviors associated with the food additive drink in virtually every assessment. Thus, the overall findings of the study are clear and require that even we skeptics, who have long doubted parental claims of the effects of various foods on the behavior of their children, admit we might have been wrong."
+In 2007, Food Standards Australia New Zealand published an official shoppers' guidance with which the concerns of food additives and their labeling are mediated.
+There has been significant controversy associated with the risks and benefits of food additives. Some artificial food additives have been linked with cancer, digestive problems, neurological conditions, ADHD, heart disease or obesity. Natural additives may be similarly harmful or be the cause of allergic reactions in certain individuals. For example, safrole was used to flavor root beer until it was shown to be carcinogenic. Due to the application of the Delaney clause, it may not be added to foods, even though it occurs naturally in sassafras and sweet basil.
+Blue 1, Blue 2, Red 3, and Yellow 6 are among the food colorings that have been linked to various health risks in animal models. Blue 1 is used to color candy, soft drinks, and pastries and there has been some evidence that it may cause cancer in mice, but studies have not been replicated. Blue 2 can be found in pet food, soft drinks, and pastries, and has shown to cause brain tumors in mice. Red 3, mainly used in cherries for cocktails has been correlated with thyroid tumors in rats. Yellow 6, used in sausages, gelatin, and candy can lead to the attribution of gland and kidney tumors, again in animal models and contains carcinogens, but in minimal amounts. It should be noted that many animal models are poor substitutes for studying carcinogenic effects in humans, because the physiology of rabbits, mice and non-human primates can be very different from humans in the relevant biochemical pathways. There has been no scientific consensus on the carcinogenic properties of these agents in humans and studies are still on-going.
+Though food additives may be linked with these diseases and health risks, they also preserve nutrient value by providing vitamins, minerals, and other nutrients to foods such as flour, cereal, margarine and milk which normally would not retain such high levels. Preservatives also reduce spoilage from sources such as air, bacteria, fungi, and yeast. 
+In the EU it can take 10 years or more to obtain approval for a new food additive. This includes five years of safety testing, followed by two years for evaluation by the European Food Safety Authority and another three years before the additive receives an EU-wide approval for use in every country in the European Union. Apart from testing and analyzing food products during the whole production process to ensure safety and compliance with regulatory standards, Trading Standards officers (in the UK) protect the public from any illegal use or potentially dangerous mis-use of food additives by performing random testing of food products.
+
+
+Standardization of its derived products
+ISO has published a series of standards regarding the topic and these standards are covered by ICS 67.220.
+
+
+Science
+Many food additives absorb radiation in the ultraviolet and / or visible region of the spectrum. This absorbance can be used to determine the concentration of an additive in a sample using external calibration. However, additives may occur together and the absorbance by one could interfere with the absorbance of another. A prior separation stage is necessary and the additives are first separated by high-pressure liquid chromatography (HPLC) and then determined on-line using a UV and/or visible detector.
+
+
+See also
+
+
+References
+
+
+Additional sources
+U.S. Food and Drug Administration. (1993). Everything Added to Food in the United States. Boca Raton, FL: C.K. Smoley (c/o CRC Press, Inc.).
+The Food Labelling Regulations (1984)
+Advanced Modular Science, Nelson, Food and Health, by John Adds, Erica Larkcom and Ruth Miller
+
+
+External links
+Food Trade's Juicy Secrets by John Triggs in the Daily Express July 17, 2007
+Everything Added to Food in the United States (EAFUS) i.e. Castor oil, etc.
+EU legislation on food additives
+CSPI's guide to food additives, (PDF)
+Food Standards Australia and New Zealand page on food additives
+Evaluation of certain Food Additives and Contaminants; Sixty-first report of the Joint FAO/WHO Expert Committee on Food Additives
